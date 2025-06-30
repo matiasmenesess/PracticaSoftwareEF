@@ -1,5 +1,8 @@
 # PracticaSoftwareEF
 
+python -m venv venv
+.\venv\Scripts\activate
+
 Paso 1:
 pip install fastapi uvicorn
 
